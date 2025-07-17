@@ -1,4 +1,4 @@
-# Athens Water Reserves & Production Dataset
+# Athens Water Reserves & Production Datasets
 
 This repository contains structured, historical data on **daily and annual water reserves, production, and savings** related to the water supply system for **Athens, Greece**. The data is collected via the [OpenWaterAPI](https://data.gov.gr/datasets/open-water-api/) and provided by **EYDAP** (Athens Water Supply and Sewerage Company), curated and updated monthly by the iMEdD team.
 
